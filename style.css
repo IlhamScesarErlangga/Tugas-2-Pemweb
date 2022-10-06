@@ -1,0 +1,17 @@
+body {
+    background-color:aqua;
+}
+table {
+    font-size: 20;
+    color: red;
+    font-family: serif;
+}
+button {
+    background-color: black;
+    color: white;
+}
+
+.table-box{
+    position: absolute;
+    left: 50%;
+}
