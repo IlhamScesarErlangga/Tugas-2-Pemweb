@@ -12,17 +12,17 @@
         <tr>
             <td>Nama</td>
             <td>:</td>
-            <td><?= $_GET['produk']?></td>
+            <td>Snack / Ciki</td>
         </tr>
         <tr>
             <td>Jumlah</td>
             <td>:</td>
-            <td><?= $_GET['Jumlah']?></td>
+            <td>100</td>
         </tr>
         <tr>
             <td>Jenis</td>
             <td>:</td>
-            <td><?= $_GET['Jenis']?></td>
+            <td>Makanan / Minuman</td>
         </tr>
     </table>
 </body>
